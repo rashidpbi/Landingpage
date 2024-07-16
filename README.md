@@ -1,6 +1,6 @@
 # GroupQuest
 
-ATG.WORLD is a front-end website project built with HTML, CSS, and JavaScript, designed to provide users with a platform to explore and connect with diverse interest groups.
+GroupQuest is a front-end website project built with HTML, CSS, and JavaScript, designed to provide users with a platform to explore and connect with diverse interest groups.
 
 ## Features
 
@@ -15,7 +15,7 @@ ATG.WORLD is a front-end website project built with HTML, CSS, and JavaScript, d
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/rashidpbi/GroupQuest.git`
 2. Open `index.html` in your web browser.
 
 ## Contributing
